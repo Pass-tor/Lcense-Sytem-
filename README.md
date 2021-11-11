@@ -45,4 +45,4 @@ PerformHttpRequest("http://iphere/sfihsafouihsdf", function(result, data)
 ---
 	Don't be a leach. Please give me a star or follow.
 	
-### Credit [aspect](https://github.com/AsepctDEVS)
+### Credit [Aspectt](https://github.com/AsepctDEVS)
