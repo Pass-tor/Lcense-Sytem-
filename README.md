@@ -5,14 +5,14 @@
 	<h4 align="center">
         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0"></img></a>
         &nbsp;
-		<a href="https://discord.gg/dybKDaS6"><img src="https://discordapp.com/api/guilds/891608460167364648/widget.png?style=shield"></img></a>
+		<a href="https://discord.gg/cakRJbT79b"><img src="https://discordapp.com/api/guilds/891608460167364648/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
 		The old discord bot. I made to work with the auth system I was using.
 	</p>
     <p align="center">
 		<b>
- I have zero intentions to keep this updated and working.
+Wala na ako balak ituloy ito guys  
 		</b> 
 	</p>
 </p>
@@ -44,3 +44,5 @@ PerformHttpRequest("http://iphere/sfihsafouihsdf", function(result, data)
 
 ---
 	Don't be a leach. Please give me a star or follow.
+	
+### Credit [aspect](https://github.com/AsepctDEVS)
